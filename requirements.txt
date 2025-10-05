@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-matplotlib==3.7.0  # เก็บเวอร์ชันเฉพาะไว้เพื่อป้องกันปัญหาแรก
+matplotlib==3.7.0
 opencv-python
 ultralytics
