@@ -1,6 +1,6 @@
-opencv-python
-ultralytics
 streamlit
 numpy
-matplotlib==3.7.0
-pandas==2.1.0
+pandas
+matplotlib==3.7.0  # เก็บเวอร์ชันเฉพาะไว้เพื่อป้องกันปัญหาแรก
+opencv-python
+ultralytics
