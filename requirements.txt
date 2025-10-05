@@ -1,7 +1,6 @@
 opencv-python
 ultralytics
-streamlist
+streamlit
 numpy
-matplotlib==3.7.0  # ลองใช้เวอร์ชันที่เก่ากว่าและเสถียร
-pandas==2.1.0 # Optional: specify a working version
-pandas
+matplotlib==3.7.0
+pandas==2.1.0
