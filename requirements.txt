@@ -4,3 +4,4 @@ streamlist
 numpy
 matplotlib
 pandas==2.1.0 # Optional: specify a working version
+pandas
